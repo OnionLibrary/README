@@ -1,3 +1,5 @@
 # Who We Are
-## Junho
 ## Chan
+Embedded Developer
+
+## Junho
