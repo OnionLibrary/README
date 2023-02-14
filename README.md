@@ -23,7 +23,6 @@
 
 # Task History
 - 비트코인 자동매매 시스템
-   - ㅁㄴㅇㄹ 
 - Android 버스 예약 어플리케이션
 - 스마트미러
 - 주차 타워
@@ -34,3 +33,6 @@
 - Wellness 챗봇
 - 동작 인식
 - Home IOT 전등제어
+
+# How We Work
+## 1. 
